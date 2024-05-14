@@ -1,2 +1,3 @@
-# qr-code-generator
-QR code generator
+# QR Code Generator #
+
+![test](0.png)
